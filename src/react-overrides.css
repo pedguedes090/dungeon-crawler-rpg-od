@@ -1,0 +1,16 @@
+/* React-specific CSS overrides */
+#title-screen {
+  display: flex !important;
+}
+
+#character-creation {
+  display: flex !important;
+}
+
+#dungeon-main {
+  display: flex !important;
+}
+
+#loading {
+  display: flex !important;
+}
